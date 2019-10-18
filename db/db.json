@@ -1,0 +1,50 @@
+{
+    "product": [
+        {
+            "id":1,
+            "productid":"Ticket-01",
+            "productName":"Blackpink concert ticket",
+            "cost":79000.00,
+            "onStock":1
+        },
+        {
+            "id":2,
+            "productid":"Ticket-02",
+            "productName":"MVC ticket",
+            "cost":3000,
+            "onStock":200
+        },
+        {
+            "id":3,
+            "productid":"Ticket-03",
+            "productName":"Avenger: Endgame ticket ",
+            "cost":1500.00,
+            "onStock":68
+        },  {
+            "id":4,
+            "productid":"Project-A",
+            "productName":"Bridge bar voucher ",
+            "cost":100000,
+            "onStock":100
+        },  {
+            "id":5,
+            "productid":"Project-F",
+            "productName":"Brain junior",
+            "cost":50.00,
+            "onStock":650
+        }
+        ,  {
+            "id":6,
+            "productid":"10062",
+            "productName":"Member A Class",
+            "cost":899.00,
+            "onStock":2
+        },  {
+            "id":7,
+            "productid":"10063",
+            "productName":"Member B Class",
+            "cost":699.00,
+            "onStock":"15"
+        }
+    ]
+}
